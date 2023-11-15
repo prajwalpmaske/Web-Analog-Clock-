@@ -8,3 +8,7 @@ This clock embraces versatility with both light and dark modes, seamlessly adapt
 Beyond its functional excellence, this project serves as an educational journey for web developers. Dive into the code, explore the customizable features, and witness the harmonious blend of structure, style, and dynamic behavior.
 
 Experience time in a new light—open the HTML file and let the Analog Clock, inspired by the Indian flag, become a visual symphony that combines cultural resonance with contemporary design
+
+This is how it looks :- 
+![Screenshot 2023-11-15 230920](https://github.com/prajwalpmaske/Web-Analog-Clock-/assets/114854119/d1401da8-9e9e-4db4-aa0b-1b5944259fda)
+![Screenshot 2023-11-15 231056](https://github.com/prajwalpmaske/Web-Analog-Clock-/assets/114854119/74eb7edd-bcd0-4cb5-a47d-2f7c6002ff7c)
